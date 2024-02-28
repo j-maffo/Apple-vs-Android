@@ -1,0 +1,52 @@
+html {
+  background-color: #cabfb6;
+}
+body {
+  margin: auto;
+  width: 600px;
+  padding: 10px 100px 25px;
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900px;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+  background-color: white;
+}
+img {
+  width: 600px;
+}
+
+#expl {
+  text-align: center;
+  background-color: #c9793b;
+  padding: 10px 10px;
+  margin: auto 200px;
+  border: 2px solid #c9793b;
+  border-radius: 5%;
+  margin-bottom: 40px;
+  width: 150px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+#expl:hover {
+  border: 3px solid black;
+}
+h2 {
+  font-family: "Proza Libre", sans-serif;
+  font-weight: bold;
+  font-style: normal;
+}
+
+button {
+  width: 120px;
+  font-size: 20px;
+  border-radius: 7%;
+}
+#and {
+  background: #a4c93b;
+}
+#iph {
+  background: #b6bcca;
+}
