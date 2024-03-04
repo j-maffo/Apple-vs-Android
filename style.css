@@ -46,7 +46,20 @@ button {
 }
 #and {
   background: #a4c93b;
+   border-width: 2px;
+  border-style: solid;
+  border-bottom-color: #a3a8b4;
+  border-top-color: rgb(203, 206, 209);
+  border-left-color: rgb(203, 206, 209);
+  border-right-color: #a3a8b4;
 }
 #iph {
   background: #b6bcca;
+  border-width: 2px;
+  border-style: solid;
+  border-bottom-color: #a3a8b4;
+  border-top-color: rgb(203, 206, 209);
+  border-left-color: rgb(203, 206, 209);
+  border-right-color: #a3a8b4;
+}
 }
